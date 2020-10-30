@@ -23,7 +23,7 @@ else
 //validate questionSkills
 $questionsSkills2 = explode("," , $questionSkills);
 if(count($questionsSkills2) < 2 )
-    echo "error: list at ";
+    echo "error: list at least 2 skills ";
 else
     print_r($questionsSkills2);
 
