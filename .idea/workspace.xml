@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26e7ab24-e7d6-4c30-b05a-dcebc1efe4db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iWheuFJK35TnEgDAM3xanx77GL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e7ab24-e7d6-4c30-b05a-dcebc1efe4db" name="Default Changelist" comment="" />
+      <created>1602029354227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602029354227</updated>
+      <workItem from="1602029355367" duration="2064000" />
+      <workItem from="1602989562647" duration="2189000" />
+      <workItem from="1603051752983" duration="2875000" />
+      <workItem from="1604012816139" duration="10045000" />
+      <workItem from="1604079128538" duration="6644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="158" key="#Deployment" timestamp="1604078760785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="158" key="#Deployment/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1604078760785" />
+    <state x="305" y="64" key="#Deployment/0.23.1440.797/-1920.-573.1920.1057@0.23.1440.797" timestamp="1604013254840" />
+    <state x="304" y="113" key="#SSH_Configurations" timestamp="1603004904272">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="304" y="102" key="#SSH_Configurations/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1602031244651" />
+    <state x="304" y="113" key="#SSH_Configurations/0.23.1440.797/-1920.-573.1920.1057@0.23.1440.797" timestamp="1603004904272" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604085906898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1604085906898" />
+    <state x="508" y="212" key="FileChooserDialogImpl" timestamp="1602031857232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1602031857232" />
+    <state x="539" y="372" key="NewPhpFileDialog" timestamp="1604081539689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="539" y="372" key="NewPhpFileDialog/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1604081539689" />
+    <state x="539" y="352" key="NewPhpFileDialog/0.23.1440.797/-1920.-573.1920.1057@0.23.1440.797" timestamp="1603005683894" />
+    <state x="556" y="356" key="WebDeployment.AddServerDialog.v.1" timestamp="1602030552093">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="356" key="WebDeployment.AddServerDialog.v.1/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1602030552093" />
+    <state x="491" y="295" width="666" height="525" key="ftp.server.browser" timestamp="1603054149491">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="585" y="260" width="666" height="525" key="ftp.server.browser/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1602031999802" />
+    <state x="491" y="295" key="ftp.server.browser/0.23.1440.797/-1920.-573.1920.1057@0.23.1440.797" timestamp="1603054149491" />
+    <state x="385" y="209" key="run.anything.popup" timestamp="1603004724882">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/-1920.-596.1920.1080@0.0.1440.900" timestamp="1602031841153" />
+    <state x="385" y="209" key="run.anything.popup/0.23.1440.797/-1920.-573.1920.1057@0.23.1440.797" timestamp="1603004724882" />
+  </component>
+</project>
