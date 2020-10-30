@@ -3,7 +3,7 @@ $email = filter_input(INPUT_POST, 'email');
 $password = filter_input(INPUT_POST, 'password');
 
 if (!filter_var($email, FILTER_VALIDATE_EMAIL))
-    echo 'error email invalid <br>';
+    echo 'error: email invalid <br>';
 else
     echo "$email <br>";
 
